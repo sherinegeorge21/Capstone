@@ -6,8 +6,6 @@ import numpy as np
 
 
 # Title of the dashboard
-#st.set_page_config(page_title="Honda Data Dashboard", page_icon="honda.png", layout="wide")
-
 st.set_page_config(page_title='Maersk Profitability Optimization', page_icon="maersk.png", layout='wide')
 
 # Using columns to set the logo and title on the same line
